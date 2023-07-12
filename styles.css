@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
@@ -8,4 +13,13 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
+}
+
+.principal{
+    background-image: url(img/Background.png);
+    background-repeat: no-repeat;
+}
+
+.container{
+    height: 100vh;
 }
