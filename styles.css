@@ -5,7 +5,7 @@
     --cor-de-fundo: #00030C;
 }
 
-*{
+* {
     margin: 0;
     padding: 0;
 }
@@ -15,12 +15,12 @@ body {
     color: var(--branco-principal);
 }
 
-.principal{
+.principal {
     background-image: url(img/Background.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
 
-.container{
+.container {
     height: 100vh;
 }
