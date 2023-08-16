@@ -33,7 +33,7 @@ body {
     grid-template-columns: 50% 50%;
 }
 
-.container__tiutlo {
+.container__titulo {
     font-size: 28px;
     font-weight: 700;
 }
